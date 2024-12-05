@@ -1,0 +1,6 @@
+@LancotesLibrary_HostAddress = http://localhost:5268
+
+GET {{LancotesLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
